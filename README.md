@@ -75,5 +75,11 @@
 # Borrar la rama v0.2
 - git branch -d v0.2
 
+#Crear keys
+Sergio
+74:f3:59:58:4e:07:12:4b:5a:8f:65:20:30:18:89:46
+Added on Dec 15, 2015 — Never used
+
+
 
 

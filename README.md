@@ -26,6 +26,10 @@
 #Crear una rama v0.2.
 - git branch v0.2
 
+#Listar los distintos commits con sus ramas y sus tags.
+- git config --global alias.list 'log --oneline --decorate --graph --all'
+- git list
+
 #Posiciona tu carpeta de trabajo en esta rama.
 - git checkout v0.2
 

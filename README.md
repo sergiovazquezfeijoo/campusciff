@@ -82,6 +82,12 @@ Sergio
 74:f3:59:58:4e:07:12:4b:5a:8f:65:20:30:18:89:46
 Added on Dec 15, 2015 — Never used
 
+#Tabla compañeros de clase
+| Patricia Iglesias | <https://github.com/Pimateos/> |
+| Ulises Ojeda | <https://github.com/ulisesojeda/> |
+| David Pacheco | <https://github.com/davpacheco/> |
+| Sergio Torres | <https://github.com/sergiotorrespalomino/> |
+
 
 
 

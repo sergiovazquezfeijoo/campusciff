@@ -83,6 +83,8 @@ Sergio
 Added on Dec 15, 2015 — Never used
 
 #Tabla compañeros de clase
+| NOMBRE | GITHUB |
+| ------ | ------ |
 | Patricia Iglesias | <https://github.com/Pimateos/> |
 | Ulises Ojeda | <https://github.com/ulisesojeda/> |
 | David Pacheco | <https://github.com/davpacheco/> |
